@@ -1,7 +1,7 @@
 {
     "name": "Blockemon",
     "preductname": "Blockemon Launcher",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "description": "Cobblemon modded server launcher",
     "main": "src/app.js",
     "author": "Evonia",
@@ -36,6 +36,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EvoniaZ/LauncherEvoniaZ.git"
+        "url": "git+https://github.com/EvoniaZ/Blockemon-launcher.git"
     }
 }
