@@ -2,7 +2,7 @@
     "name": "Blockemon",
     "preductname": "Blockemon Launcher",
     "version": "1.3.6",
-    "description": "Pokemon modded server launcher",
+    "description": "Cobblemon modded server launcher",
     "main": "src/app.js",
     "author": "Evonia",
     "settings": "https://evoniamc.web.boxtoplay.com/panellauncher",
